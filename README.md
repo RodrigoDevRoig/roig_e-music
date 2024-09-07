@@ -1,4 +1,4 @@
-## **## E-Music: Sua Guia Pessoal para a Música Eletrônica!**
+## **## E-Music: Sua Guia Pessoal para a Música Eletrônica - Imersão Dev com Google Gemini!**
 
 **O que é?**
 
